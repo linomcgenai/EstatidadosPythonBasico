@@ -11,18 +11,20 @@
 ---
 ## Módulo 01
 #### Começando
-Apresentação do python no notebook (google research)
-O que é o projeto no jupyter
-Como pode servir de auxilio aos estudo o gemini integrado ao Notebook
+
+  1.1 Apresentação do python no notebook (google research)
+  1.2 O que é o projeto no jupyter
+  1.3 Como pode servir de auxilio aos estudo o gemini integrado ao Notebook
 
 ## Módulo 02
 #### Variáveis e Entradas de Dados
-Nomes de variáveis
-Variáveis numéricas
-Operadores relacionais
-Operadores lógicos
-Operadores com strings
-Conversão de Entrada de Dados
+
+  2.1 Nomes de variáveis
+  2.2 Variáveis numéricas
+  2.3 Operadores relacionais
+  2.4 Operadores lógicos
+  2.5 Operadores com strings
+  2.6 Conversão de Entrada de Dados
 
 ## Módulo 03
 #### Condicionais
